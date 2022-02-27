@@ -8,7 +8,7 @@ export default function App() {
   <footer>
     This project was coded by Aida Hamedi and is {" "}
     <a 
-    href="https://www.npmjs.com/package/bootstrap">
+    href="https://github.com/Aida2005/.React-Weather-Application.">
       open-sourced on GitHub
     </a>
   </footer>
